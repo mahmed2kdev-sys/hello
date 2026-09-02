@@ -3,5 +3,5 @@ featur1
 featur2
 feature3
 
-Anather new feature,
-feature 4
+branch before merging feature/4
+feature/5
